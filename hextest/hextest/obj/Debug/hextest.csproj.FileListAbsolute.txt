@@ -1,0 +1,8 @@
+C:\Users\Cyberadmin\documents\visual studio 2015\Projects\hextest\hextest\bin\Debug\hextest.dll
+C:\Users\Cyberadmin\documents\visual studio 2015\Projects\hextest\hextest\bin\Debug\hextest.pdb
+C:\Users\Cyberadmin\documents\visual studio 2015\Projects\hextest\hextest\bin\Debug\DLLTEST.dll
+C:\Users\Cyberadmin\documents\visual studio 2015\Projects\hextest\hextest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Cyberadmin\documents\visual studio 2015\Projects\hextest\hextest\bin\Debug\DLLTEST.pdb
+C:\Users\Cyberadmin\documents\visual studio 2015\Projects\hextest\hextest\obj\Debug\hextest.csprojResolveAssemblyReference.cache
+C:\Users\Cyberadmin\documents\visual studio 2015\Projects\hextest\hextest\obj\Debug\hextest.dll
+C:\Users\Cyberadmin\documents\visual studio 2015\Projects\hextest\hextest\obj\Debug\hextest.pdb
